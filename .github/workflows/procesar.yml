@@ -1,0 +1,30 @@
+name: Procesar datos del iPhone
+on:
+  push:
+    paths: ["inbox/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epg
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          NEWEST=$(ls inbox/*.json | sort | tail -n 1)
+          python3 epg_airtek.py Playlist-con-logos.m3u --from-json "$NEWEST"
+          ls inbox/*.json | sort | head -n -1 | xargs -r git rm -q
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add guide.xml
+          git commit -m "Actualizar guía" || echo "sin cambios"
+          git push
