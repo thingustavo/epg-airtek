@@ -1,0 +1,141 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/thingustavo/epg-airtek/main/guide.xml" x-tvg-url="https://raw.githubusercontent.com/thingustavo/epg-airtek/main/guide.xml"
+#EXTINF:-1 tvg-id="VENEVISION" tvg-name="Venevisión" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11928336.png" tvg-chno="1" group-title="Nacionales",Venevisión
+https://airtek.tv/livestream/Venevision.m3u8
+#EXTINF:-1 tvg-id="TELEVEN" tvg-name="Televen" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11928312.png" tvg-chno="2" group-title="Nacionales",Televen
+https://airtek.tv/livestream/TELEVEN.m3u8
+#EXTINF:-1 tvg-id="GLOBOVISION" tvg-name="Globovisión" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/13521962.png" tvg-chno="3" group-title="Nacionales",Globovisión
+https://airtek.tv/livestream/Globovision.m3u8
+#EXTINF:-1 tvg-id="DSPORTS" tvg-name="DSPORTS" tvg-logo="https://previews.dropbox.com/p/thumb/AC5mLU9R9G-G1pG5SgGroGDU5hyEQ0239tDoubwsqtOZoUypWwJ7vhHfxpjaVLwoVGTuwFVfceBoR5dxCWuoZGfJBPW-PaeG1OAKZyTGeQHyZ3EgDLXgRvGhAUOcjCPrU4Xnv467GDH5Da3vhq0OCxCtkpqrIiNz7ZhosEPQ6yJBH1g3j8WNNhqUEY-CwYCWHEGCCs5bgIYcfft1ya7UyB5fSjF" tvg-chno="4" group-title="Deportes",DSPORTS
+https://airtek.tv/eventos/SRT_DSports1_mejorado.m3u8
+#EXTINF:-1 tvg-id="DSPORTS_2" tvg-name="DSPORTS 2" tvg-logo="https://previews.dropbox.com/p/thumb/AC5ARyJtEPf4qztkvZrXR4o934kKryO5VSCsgPBf3lzRo683ZG1snGQDOK9b5iLJyKs3qhye8mkWj2WU6-sIrR_2Rm3nknKg-ag-lpOWwzhRzzbyO-cN7nyX9DPxxHtzZ53bvMlkSZkt301wlyh-xSCUIf8oZWWrjrrhnHQGvUYAEQMejz2en7uISGiBnzJVlmiTLNv-igPouqepCbxX0ye6Ll8" tvg-chno="5" group-title="Deportes",DSPORTS 2
+https://airtek.tv/livestream2/SRT_DSports2.m3u8
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-name="DSPORTS+" tvg-logo="https://previews.dropbox.com/p/thumb/AC56Jtg6ofLuB9M8ZOW51NRAlN6a3xYoyL0H4gm6pQse7TKqG8wqMyHhCqMw0TujKB0aCgOX1Ia_wAdPOGIMu4V6Q1vvECKyU6rUd2248tA-bdyrP0tnAM75YBmtLA1jP3Pn01-Io-5Koq0yErzPpQu-RArH_tcG3krTarB1I6ikSKll4R1Q6mrGkSKxw6lhz7XshTFmACBT96XPIESCOVjdUK5" tvg-chno="6" group-title="Deportes",DSPORTS+
+https://airtek.tv/eventos/SRT_DSportsPlus_Respaldo.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12508543.png" tvg-chno="7" group-title="Deportes",ESPN
+https://airtek.tv/livestream/ESPN_1.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12508547.png" tvg-chno="8" group-title="Deportes",ESPN 2
+https://airtek.tv/livestream/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12508555.png" tvg-chno="9" group-title="Deportes",ESPN 3
+https://airtek.tv/livestream/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/17812929.png" tvg-chno="10" group-title="Deportes",ESPN 4
+https://airtek.tv/livestream/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/33766848.png" tvg-chno="11" group-title="Deportes",ESPN 5
+https://airtek.tv/livestream/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/33766854.png" tvg-chno="12" group-title="Deportes",ESPN 6
+https://airtek.tv/livestream/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN 7" tvg-name="ESPN 7" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/33766859.png" tvg-chno="13" group-title="Deportes",ESPN 7
+https://airtek.tv/livestream/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="MERIDIANO" tvg-name="Meridiano" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11928324.png" tvg-chno="14" group-title="Deportes",Meridiano
+https://airtek.tv/livestream/Meridiano.m3u8
+#EXTINF:-1 tvg-id="IVC" tvg-name="IVC" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11928344.png" tvg-chno="15" group-title="Deportes",IVC
+https://airtek.tv/livestream/IVC.m3u8
+#EXTINF:-1 tvg-id="ONE BASEBALL" tvg-name="One Baseball" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/37279571.png" tvg-chno="16" group-title="Deportes",One Baseball
+https://airtek.tv/livestream/ONE_BASEBALL.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="Warner Channel" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/1991279731.png" tvg-chno="17" group-title="Películas y Series",Warner Channel
+https://airtek.tv/livestream/WARNER_CHANNEL_HD.m3u8
+#EXTINF:-1 tvg-id="STAR" tvg-name="Star Channel" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/13376354.png" tvg-chno="18" group-title="Películas y Series",Star Channel
+https://airtek.tv/livestream/STAR.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="Universal" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11749176.png" tvg-chno="19" group-title="Películas y Series",Universal
+https://airtek.tv/livestream/UNIVERSAL.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/1948594872.png" tvg-chno="20" group-title="Películas y Series",TNT
+https://airtek.tv/livestream/TNT_SD.m3u8
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT Series" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/1948594880.png" tvg-chno="21" group-title="Películas y Series",TNT Series
+https://airtek.tv/livestream/TNT_SERIES.m3u8
+#EXTINF:-1 tvg-id="SPACE" tvg-name="Space" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11152578.png" tvg-chno="22" group-title="Películas y Series",Space
+https://airtek.tv/livestream/SPACE.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-name="Sony" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/29257795.png" tvg-chno="23" group-title="Películas y Series",Sony
+https://airtek.tv/livestream/SONY_HD.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11746017.png" tvg-chno="24" group-title="Películas y Series",FX
+https://airtek.tv/livestream/FX.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12401162.png" tvg-chno="25" group-title="Películas y Series",AXN
+https://airtek.tv/livestream/AXN.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-name="USA Network" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/29520413.png" tvg-chno="26" group-title="Películas y Series",USA Network
+https://airtek.tv/livestream/USA.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="Paramount" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png" tvg-chno="27" group-title="Películas y Series",Paramount
+https://airtek.tv/livestream/Paramount.m3u8
+#EXTINF:-1 tvg-id="A3SERIES" tvg-name="A3Series" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/27509606.png" tvg-chno="28" group-title="Películas y Series",A3Series
+https://airtek.tv/livestream2/A3series.m3u8
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="Sony Movies" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/20112133.png" tvg-chno="29" group-title="Películas y Series",Sony Movies
+https://airtek.tv/livestream/SONYMOVIES.m3u8
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="Studio Universal" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/13521966.png" tvg-chno="30" group-title="Películas y Series",Studio Universal
+https://airtek.tv/livestream/STUDIO_UNIVERSAL.m3u8
+#EXTINF:-1 tvg-id="GOLDEN" tvg-name="Golden" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/23354677.png" tvg-chno="31" group-title="Películas y Series",Golden
+https://airtek.tv/livestream/GOLDEN.m3u8
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="Golden Edge" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/23354697.png" tvg-chno="32" group-title="Películas y Series",Golden Edge
+https://airtek.tv/livestream/GOLDEN_EDGE.m3u8
+#EXTINF:-1 tvg-id="CINE CANAL" tvg-name="CineCanal" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11745901.png" tvg-chno="33" group-title="Películas y Series",CineCanal
+https://airtek.tv/livestream/CINECANAL.m3u8
+#EXTINF:-1 tvg-id="DPELICULAS" tvg-name="DPelículas" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/13188855.png" tvg-chno="34" group-title="Películas y Series",DPelículas
+https://airtek.tv/livestream/DPELICULAS.m3u8
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MultiPremier" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11312465.png" tvg-chno="35" group-title="Películas y Series",MultiPremier
+https://airtek.tv/livestream2/Multipremier.m3u8
+#EXTINF:-1 tvg-id="MULTICINEMA" tvg-name="MultiCinema" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12445852.png" tvg-chno="36" group-title="Películas y Series",MultiCinema
+https://airtek.tv/livestream2/Multicinema.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIER" tvg-name="Universal Premier" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/18755025.png" tvg-chno="37" group-title="Películas y Series",Universal Premier
+https://airtek.tv/livestream/SRT_Universal_Premier.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="Universal Cinema" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/18755021.png" tvg-chno="38" group-title="Películas y Series",Universal Cinema
+https://airtek.tv/livestream/SRT_Universal_Cinema.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/29979033.png" tvg-chno="39" group-title="Entretenimiento",A&E
+https://airtek.tv/livestream/A_E_HD.m3u8
+#EXTINF:-1 tvg-id="E ENTERTAINMENT" tvg-name="E! Entertainment" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12401154.png" tvg-chno="40" group-title="Entretenimiento",E! Entertainment
+https://airtek.tv/livestream/E_ENTERTAINMENT.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="Comedy Central" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11746013.png" tvg-chno="41" group-title="Entretenimiento",Comedy Central
+https://airtek.tv/livestream/COMEDY_CENTRAL.m3u8
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-name="Distrito Comedia" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11152379.png" tvg-chno="42" group-title="Entretenimiento",Distrito Comedia
+https://airtek.tv/livestream/Distrito_Comedia.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-name="Universal Comedy" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/18755013.png" tvg-chno="43" group-title="Entretenimiento",Universal Comedy
+https://airtek.tv/livestream/SRT_Universal_Comedy.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="Universal Reality" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/1988498757.png" tvg-chno="44" group-title="Entretenimiento",Universal Reality
+https://airtek.tv/livestream/SRT_Universal_Reality.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="Universal Crime" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/18755017.png" tvg-chno="45" group-title="Entretenimiento",Universal Crime
+https://airtek.tv/livestream/SRT_Universal_Crime.m3u8
+#EXTINF:-1 tvg-id="OTAKU TV" tvg-name="Otaku TV" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/1991883331.png" tvg-chno="46" group-title="Entretenimiento",Otaku TV
+https://airtek.tv/livestream2/OtakuTV.m3u8
+#EXTINF:-1 tvg-id="BITME" tvg-name="BITME" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12188366.png" tvg-chno="47" group-title="Entretenimiento",BITME
+https://airtek.tv/livestream/BITME.m3u8
+#EXTINF:-1 tvg-id="1000XHORA" tvg-name="1000XHora" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12816243.png" tvg-chno="48" group-title="Entretenimiento",1000XHora
+https://airtek.tv/livestream2/1000xHora.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="Discovery Channel" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11152292.png" tvg-chno="49" group-title="Documentales",Discovery Channel
+https://airtek.tv/livestream2/Discovery.m3u8
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="National Geographic" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/22815384.png" tvg-chno="50" group-title="Documentales",National Geographic
+https://airtek.tv/livestream/NATGEO.m3u8
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="History Channel" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/19243528.png" tvg-chno="51" group-title="Documentales",History Channel
+https://airtek.tv/livestream/HISTORY_CHANNEL_HD.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-name="History 2" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/19243532.png" tvg-chno="52" group-title="Documentales",History 2
+https://airtek.tv/livestream/H2.m3u8
+#EXTINF:-1 tvg-id="LOVENATURE" tvg-name="Love Nature" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s128066_dark_360w_270h.png" tvg-chno="53" group-title="Documentales",Love Nature
+https://airtek.tv/livestream2/LoveNature1063.ts
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/1949451015.png" tvg-chno="54" group-title="Infantil",Disney Channel
+https://airtek.tv/livestream/DISNEY_CHANNEL.m3u8
+#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DreamWorks" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/20096126.png" tvg-chno="55" group-title="Infantil",DreamWorks
+https://airtek.tv/livestream/dreamworks.m3u8
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="Cartoonito" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/17812933.png" tvg-chno="56" group-title="Infantil",Cartoonito
+https://airtek.tv/livestream/CARTOONITO.m3u8
+#EXTINF:-1 tvg-id="NICK" tvg-name="Nick" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/29405422.png" tvg-chno="57" group-title="Infantil",Nick
+https://airtek.tv/livestream/NICK.m3u8
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="ToonCast" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11152422.png" tvg-chno="58" group-title="Infantil",ToonCast
+https://airtek.tv/livestream/TOONCAST.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11745905.png" tvg-chno="59" group-title="Música",MTV
+https://airtek.tv/livestream/MTVLA.m3u8
+#EXTINF:-1 tvg-id="MTV_HITS" tvg-name="MTV Hits" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83620_white_360w_270h.png" tvg-chno="60" group-title="Música",MTV Hits
+https://airtek.tv/livestream/MTV_HITS.m3u8
+#EXTINF:-1 tvg-id="TELEHIT" tvg-name="Telehit" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12401154.png" tvg-chno="61" group-title="Música",Telehit
+https://airtek.tv/livestream/TELEHIT_RESPALDO.m3u8
+#EXTINF:-1 tvg-id="TELEHIT MUSIC" tvg-name="Telehit Música" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12188362.png" tvg-chno="62" group-title="Música",Telehit Música
+https://airtek.tv/livestream/TELEHIT_MUSIC.m3u8
+#EXTINF:-1 tvg-id="BANDAMAX" tvg-name="Bandamax" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/23354681.png" tvg-chno="63" group-title="Música",Bandamax
+https://airtek.tv/livestream/Bandamax.m3u8
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="Canal de las Estrellas" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12188358.png" tvg-chno="64" group-title="Internacional",Canal de las Estrellas
+https://airtek.tv/livestream/CANAL_DE_LAS_ESTRALLA.m3u8
+#EXTINF:-1 tvg-id="TELENOVELA" tvg-name="TLNovelas" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11207011.png" tvg-chno="65" group-title="Internacional",TLNovelas
+https://airtek.tv/livestream/TELENOVELA_HD.m3u8
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="Telemundo" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11761397.png" tvg-chno="66" group-title="Internacional",Telemundo
+https://airtek.tv/livestream/TELEMUNDO.m3u8
+#EXTINF:-1 tvg-id="UNIVISION" tvg-name="Univision" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11594248.png" tvg-chno="67" group-title="Internacional",Univision
+https://airtek.tv/eventos/Univision.m3u8
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/11152190.png" tvg-chno="68" group-title="Internacional",TVE
+https://airtek.tv/eventos/Tve.m3u8
+#EXTINF:-1 tvg-id="ANTENA3" tvg-name="Antena 3" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/48774154.png" tvg-chno="69" group-title="Internacional",Antena 3
+https://airtek.tv/livestream2/Antena3.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5 Monde" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/1949451006.png" tvg-chno="70" group-title="Internacional",TV5 Monde
+https://airtek.tv/livestream2/TV5.m3u8
