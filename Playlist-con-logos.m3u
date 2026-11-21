@@ -6,11 +6,11 @@ https://airtek.tv/livestream/TELEVEN.m3u8
 #EXTINF:-1 tvg-id="GLOBOVISION" tvg-name="Globovisión" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/13521962.png" tvg-chno="3" group-title="Nacionales",Globovisión
 https://airtek.tv/livestream/Globovision.m3u8
 #EXTINF:-1 tvg-id="DSPORTS" tvg-name="DSPORTS" tvg-logo="https://previews.dropbox.com/p/thumb/AC5mLU9R9G-G1pG5SgGroGDU5hyEQ0239tDoubwsqtOZoUypWwJ7vhHfxpjaVLwoVGTuwFVfceBoR5dxCWuoZGfJBPW-PaeG1OAKZyTGeQHyZ3EgDLXgRvGhAUOcjCPrU4Xnv467GDH5Da3vhq0OCxCtkpqrIiNz7ZhosEPQ6yJBH1g3j8WNNhqUEY-CwYCWHEGCCs5bgIYcfft1ya7UyB5fSjF" tvg-chno="4" group-title="Deportes",DSPORTS
-https://airtek.tv/eventos/SRT_DSports1_mejorado.m3u8
+https://airtek.tv/livestream/DSPORST1.m3u8
 #EXTINF:-1 tvg-id="DSPORTS_2" tvg-name="DSPORTS 2" tvg-logo="https://previews.dropbox.com/p/thumb/AC5ARyJtEPf4qztkvZrXR4o934kKryO5VSCsgPBf3lzRo683ZG1snGQDOK9b5iLJyKs3qhye8mkWj2WU6-sIrR_2Rm3nknKg-ag-lpOWwzhRzzbyO-cN7nyX9DPxxHtzZ53bvMlkSZkt301wlyh-xSCUIf8oZWWrjrrhnHQGvUYAEQMejz2en7uISGiBnzJVlmiTLNv-igPouqepCbxX0ye6Ll8" tvg-chno="5" group-title="Deportes",DSPORTS 2
-https://airtek.tv/livestream2/SRT_DSports2.m3u8
+https://airtek.tv/livestream/DSPORST2.m3u8
 #EXTINF:-1 tvg-id="DSPORTS+" tvg-name="DSPORTS+" tvg-logo="https://previews.dropbox.com/p/thumb/AC56Jtg6ofLuB9M8ZOW51NRAlN6a3xYoyL0H4gm6pQse7TKqG8wqMyHhCqMw0TujKB0aCgOX1Ia_wAdPOGIMu4V6Q1vvECKyU6rUd2248tA-bdyrP0tnAM75YBmtLA1jP3Pn01-Io-5Koq0yErzPpQu-RArH_tcG3krTarB1I6ikSKll4R1Q6mrGkSKxw6lhz7XshTFmACBT96XPIESCOVjdUK5" tvg-chno="6" group-title="Deportes",DSPORTS+
-https://airtek.tv/eventos/SRT_DSportsPlus_Respaldo.m3u8
+https://airtek.tv/livestream/DSPORST3-PLUS.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12508543.png" tvg-chno="7" group-title="Deportes",ESPN
 https://airtek.tv/livestream/ESPN_1.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://epg.somosthunder.com.ve/thunder/Imagenes/12508547.png" tvg-chno="8" group-title="Deportes",ESPN 2
